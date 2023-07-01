@@ -16,6 +16,7 @@
     <description>demo</description>
     <modules>
         <module>kafka</module>
+        <module>rocketMq</module>
     </modules>
     <properties>
         <java.version>11</java.version>
